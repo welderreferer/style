@@ -1,0 +1,138 @@
+#twist-blogger-sbox-v2 {
+  padding: 0;
+  padding-bottom: 5px;
+  font-family: inherit;
+  display: block;
+  margin: 0;
+  width: 100%;
+  border-radius: 1px;
+  border: 0;
+  background: #363636;
+}
+#twist-blogger-sbox-v2 .main_tagline {
+  padding: 0px 0px;
+  line-height: 2.5em;
+  font-size: 26px;
+  margin: 0;
+  height: 95px !important;
+  overflow: hidden;
+  font-weight: normal;
+  color: #FFF;
+  text-align: center;
+  border: 0;
+  background-color: #004cff;
+}
+#twist-blogger-sbox-v2 .email_icon {
+  display: table;
+  margin: -35px auto 0px;
+  font-size: 25px;
+  padding: 12px;
+  height: 25px;
+  width: 25px;
+  background-color: #363636;
+  color: #FFF;
+  border-radius: 50px;
+  border: 10px solid #FFFFFF;
+  line-height: 0;
+}
+#twist-blogger-sbox-v2 p {
+  font-size: 15px;
+  letter-spacing: 0.5px;
+  color: #F9F9F9;
+  text-shadow: 0px -1px 0px #000;
+  line-height: 27px;
+  padding: 5px 10px 5px;
+  text-align: center;
+  width: 80%;
+  margin: 5px auto 20px;
+  border-bottom: 2px solid #6A6A6A;
+  border-radius: 20px;
+}
+#twist-blogger-sbox-v2 .rssform {
+  padding: 0;
+  margin: 0 auto;
+  display: block;
+}
+#twist-blogger-sbox-v2 .rssform input {
+  padding: 8px;
+  margin: 20px auto 15px;
+  font-size: 13px;
+  color: #000;
+  text-align: center;
+  display: block;
+  font-family: inherit;
+  font-weight: normal;
+  width: 90%;
+  height: 38px;
+  text-transform: uppercase;
+  outline: none !important;
+  border: 1px solid #FFFFFF;
+  border-radius: 1px;
+  background-color: #FCFCFC;
+  box-sizing: border-box !important;
+}
+#twist-blogger-sbox-v2 .rssform .button:hover {
+  background: #000000;
+}
+#twist-blogger-sbox-v2 .rssform .button {
+  background: #004cff;
+  color: white!important;
+  border: 1px solid #FFFFFF;
+  margin-top: 15px;
+  outline: none !important;
+  transition: all .3s ease-in-out;
+  padding: 5px 2px !important;
+  float: none;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: normal;
+  cursor: pointer;
+}
+#twist-blogger-sbox-v2 .bottom_lock_policy {
+  background: url(http://4.bp.blogspot.com/-kYVqV9JYDHY/VPMC8jPKTGI/AAAAAAAAA28/zxv0TYRIZe4/s1600/Lock-twistblogger.png) no-repeat 3% -2px;
+  color: #959595;
+  text-align: center;
+  font-size: 12px;
+  margin: 0;
+  padding: 3px;
+  line-height: 25px;
+}
+#twist-blogger-sbox-v2 .bottom_lock_policy a {
+  color: #959595;
+  text-decoration: none !Important;
+}
+#twist-blogger-sbox-v2 .social_profiles {
+  line-height: 1.2em;
+  display: table;
+  float: none;
+  margin: 0px auto;
+  text-align: center;
+  min-width: 157px;
+  padding: 5px 0px;
+  border: 0;
+}
+#twist-blogger-sbox-v2 .social_profiles a:hover {
+  color: #FFF;
+  background-color: #004cff;
+  border-color: #FFF;
+}
+#twist-blogger-sbox-v2 .social_profiles a {
+  color: #000000;
+  margin: 0 5px;
+  text-align: center;
+  float: left;
+  display: table;
+  padding: 4px 5px;
+  background-color: #FFFFFF;
+  border-radius: 50px;
+  border: 2px solid #2D2D2D;
+  width: 15px;
+  height: 15px;
+  line-height: 0;
+  font-size: 16px;
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+}
+#twist-blogger-sbox-v2 form {
+  margin-bottom: 10px !important;
+}
